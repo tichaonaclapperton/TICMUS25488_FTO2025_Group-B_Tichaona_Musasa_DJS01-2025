@@ -4,6 +4,8 @@
 
 You will design and build a responsive web application that allows users to **browse podcast shows** on a landing page and **view detailed information** in a modal. The application should display clear, concise previews of podcast shows and offer additional information through a modal pop-up, **all without navigating away from the page**. Your app should showcase clean code architecture and strong UI/UX design while following JavaScript best practices.
 
+---
+
 ## Core Objectives
 
 ### 1. Landing Page – Podcast Previews
@@ -54,6 +56,8 @@ You will design and build a responsive web application that allows users to **br
 - Use a consistent **colour scheme, typography, spacing, and sizing**.
 - Accessibility considerations (contrast, font readability, responsive buttons).
 - App should be fully **responsive** on desktop, tablet, and mobile.
+
+---
 
 ## Deliverables
 
