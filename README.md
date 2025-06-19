@@ -57,6 +57,10 @@ You will design and build a responsive web application that allows users to **br
 - Accessibility considerations (contrast, font readability, responsive buttons).
 - App should be fully **responsive** on desktop, tablet, and mobile.
 
+Make sure to dive into the wireframe reference images folder for guidance on how to build the UI structure. Note that the UI wireframes for both Desktop and Mobile are included.  
+
+![alt text](<wireframe reference images/desktop view/desktop_modal_view.png>)
+
 ---
 
 ## Deliverables
